@@ -86,7 +86,7 @@ export default function Navbar() {
       <div className="container mx-auto px-5 lg:px-10 xl:px-0  py-4 flex">
         <div className="items-center">
           <Link href="/">
-            <Image alt="Logo" src="/logo.png" width={150} height={117} />
+            <Image alt="Logo" src="/logo.png" width={150} height={117} loading="eager"/>
           </Link>
         </div>
         <div className="container mx-auto flex items-center justify-center">
