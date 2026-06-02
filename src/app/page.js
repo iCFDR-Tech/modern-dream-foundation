@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <section>
-        <div className="mt-53 md:mt-40 xl:mt-40">
+        <div>
           <Slider />
         </div>
       </section>

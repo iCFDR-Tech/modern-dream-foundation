@@ -107,10 +107,10 @@ export default function Navbar() {
           </div>
         </div>
 
-        <div className="hidden md:inline-flex">
+        <div className="inline-flex mr-5 md:mr-0">
           <div className="flex items-center">
-            <a href="#">
-              <Button className="bg-[#000d44] hover:bg-[#000d44]/80 cursor-pointer rounded-3xl">
+            <a target="_blank" href="https://rzp.io/rzp/FQqoXGj">
+              <Button className="bg-[#000d44] hover:bg-[#000d44]/80 cursor-pointer rounded-3xl text-xs md:text-md">
                 Donate Now
               </Button>
             </a>
@@ -139,7 +139,7 @@ export default function Navbar() {
                 ))}
 
                 <SheetTitle>
-                  <a href="#" className="flex gap-2 items-center">
+                  <a target="_blank" href="https://rzp.io/rzp/FQqoXGj" className="flex gap-2 items-center">
                     <HandHeart className="w-5 h-5"/>
                     <nav>Donate</nav>
                   </a>
