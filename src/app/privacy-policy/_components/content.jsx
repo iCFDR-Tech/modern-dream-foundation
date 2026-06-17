@@ -66,7 +66,7 @@ export default function Privacy_Policy() {
                 controlled by, or is under common control with a party.
               </li>
               <li>
-                <strong>Company</strong>: refers to HOUSE NO. 41-42, 2ND FLOOR, BLK-B, PKT 5, SEC 5, ROHINI, LANDMARK NEAR RITHALA MODE, DELHI-110085
+                <strong>Company</strong>: refers to SEC 5 ROHINI LANDMARK NEAR RITHALA MODE DELHI 110085
               </li>
               <li>
                 <strong>Cookies</strong>: small files placed on Your device to

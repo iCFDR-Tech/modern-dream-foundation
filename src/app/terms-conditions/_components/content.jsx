@@ -55,8 +55,7 @@ export default function Terms_Conditions() {
                 <strong>Country</strong>: India
               </li>
               <li>
-                <strong>Company</strong>: HOUSE NO. 41-42, 2ND FLOOR, BLK-B, PKT 5,
-                SEC 5, ROHINI, LANDMARK NEAR RITHALA MODE, DELHI-110085
+                <strong>Company</strong>: SEC 5 ROHINI LANDMARK NEAR RITHALA MODE DELHI 110085
               </li>
               <li>
                 <strong>Device</strong>: any device that can access the Service

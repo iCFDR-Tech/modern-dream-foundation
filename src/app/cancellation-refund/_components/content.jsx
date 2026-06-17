@@ -71,7 +71,7 @@ export default function Cancellation_Refund() {
             <ul className="list-disc pl-6 space-y-3 text-sm sm:text-base lg:text-lg leading-relaxed text-gray-700">
               <li>
                 <strong>Company</strong> (referred to as either "the Company",
-                "We", "Us" or "Our" in this Agreement) refers to HOUSE NO. 41-42, 2ND FLOOR, BLK-B, PKT 5, SEC 5, ROHINI, LANDMARK NEAR RITHALA MODE, DELHI - 110085
+                "We", "Us" or "Our" in this Agreement) refers to SEC 5 ROHINI LANDMARK NEAR RITHALA MODE DELHI 110085
               </li>
               <li>
                 <strong>Goods</strong> refer to the items offered for sale on
@@ -222,11 +222,7 @@ export default function Cancellation_Refund() {
           </p>
 
           <address className="not-italic text-sm sm:text-base lg:text-lg leading-relaxed text-gray-700 p-4">
-            HOUSE NO. 41-42, 2ND FLOOR BLK-B PKT 5,
-            <br />
-            SEC-5, ROHINI, LANDMARK NEAR RITHALA MODE,
-            <br />
-            DELHI, INDIA - 110085
+            SEC 5 ROHINI LANDMARK NEAR RITHALA MODE DELHI 110085
           </address>
 
           <p className="text-sm sm:text-base lg:text-lg leading-relaxed text-gray-700">

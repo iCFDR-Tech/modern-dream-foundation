@@ -52,8 +52,7 @@ export default function Contact() {
           </CardHeader>
           <CardContent>
             <p className="text-gray-600 text-sm md:text-base xl:text-lg">
-              HOUSE NO 41-42 2ND FLOOR BLK-B PKT 5 SEC 5 ROHINI LANDMARK NEAR
-              RITHALA MODE DELHI 110085
+              SEC 5 ROHINI LANDMARK NEAR RITHALA MODE DELHI 110085
             </p>
           </CardContent>
         </Card>
